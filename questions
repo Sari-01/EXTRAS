@@ -1,0 +1,53 @@
+🔥 JavaScript Interview Questions (Must-Solve)
+
+1. Arrays & Iteration Methods
+Find the second largest number in an array.
+Remove duplicates from an array.
+Find the intersection of two arrays.
+Rotate an array k times to the right.
+Flatten a nested array (without using flat()).
+Group array elements by a given property (e.g., group people by age).
+Check if an array is sorted in ascending order.
+Find the missing number in an array of n consecutive numbers.
+Move all zeros in an array to the end.
+Find the most frequent element in an array.
+
+2. Strings & Manipulation
+Reverse a string without using reverse().
+Check if a string is a palindrome (ignoring spaces and case).
+Find the first non-repeating character in a string.
+Count the number of vowels in a string.
+Check if two strings are anagrams of each other.
+Find the longest word in a sentence.
+Capitalize the first letter of each word in a sentence.
+Compress a string using character counts (e.g., "aaabbc" → "a3b2c1").
+Check if a string contains only unique characters.
+Replace all spaces in a string with %20 (like URL encoding).
+
+3. Objects & Data Manipulation
+Find the property with the highest value in an object.
+Merge two objects with the second object overwriting values in the first.
+Convert an array of objects into a single object.
+Convert an object into a query string (name=John&age=30).
+Deep clone an object without using JSON.parse(JSON.stringify(obj)).
+
+4. Recursion & Logical Thinking
+Find the factorial of a number using recursion.
+Generate the Fibonacci sequence up to n numbers using recursion.
+Reverse a string using recursion.
+Find the sum of all numbers in a nested object using recursion.
+Flatten a deeply nested array using recursion.
+
+5. Asynchronous JavaScript & Promises
+Create a function that returns a promise after a delay.
+Use async/await to fetch data from an API and display it.
+Implement a function that retries an API request up to 3 times if it fails.
+Throttle a function so it runs at most once every n milliseconds.
+Debounce a function so it executes only after n milliseconds of inactivity.
+
+6. DOM & Browser-based JavaScript
+Implement a "Load More" button using JavaScript.
+Create a simple drag-and-drop UI feature.
+Implement a light/dark mode toggle.
+Build a countdown timer that updates every second.
+Validate form inputs (e.g., check for valid email, password strength).
